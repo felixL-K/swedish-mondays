@@ -1,0 +1,42 @@
+\documentclass[]{article}
+\usepackage[margin=0.5in, a4paper]{geometry}
+
+\usepackage{graphicx}
+\usepackage{xcolor}
+
+\usepackage{anyfontsize}
+
+\usepackage{microtype}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+% This is "more bold"
+\usepackage{ebgaramond}
+% This is thinner and nicer in my opinion but perhaps harder to read
+%\usepackage{CormorantGaramond}
+\usepackage{enumitem}
+
+\definecolor{swedenblue}{HTML}{006AA7}
+\definecolor{swedengold}{HTML}{FECC02}
+
+\usepackage{tcolorbox}
+
+% \begin{easytopic}{Topic title}...
+\newtcolorbox{easytopic}[1]{colback=swedenblue!5!white,
+colframe=swedenblue,fonttitle=\fontsize{20}{20}\selectfont\bfseries,
+title={#1}, fontupper=\normalsize, after skip=2em}
+
+% \begin{hardtopic}{Topic title}...
+\newtcolorbox{hardtopic}[1]{colback=swedengold!5!white, colframe=swedengold,fonttitle=\fontsize{20}{20}\selectfont\bfseries,coltitle=black, title={#1}, fontupper=\normalsize, after skip=2em}
+
+% \swecolors[FONT SIZE]{Text 1}{Text 2}
+\newcommand*{\swecolors}[3][12]{\fontsize{#1}{#1}\selectfont{\textbf{\textcolor{swedenblue}{#2}\textcolor{swedengold}{#3}}}}
+
+\newcommand{\placeholder}{\leavevmode\unskip\;$\cdots$\;\ignorespaces}
+
+% \swedish_{swedish phrase}{english phrase}
+% For table rows (spans 2 columns)
+\newcommand{\swedishr}[2]{#1 & \textit{(= #2)}}
+% With a big gap between expression and translation
+\newcommand{\swedishg}[2]{#1\quad\textit{(= #2)}}
+% With no gap between expression and translation
+\newcommand{\swedish}[2]{#1 \textit{(= #2)}}

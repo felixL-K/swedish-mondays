@@ -1,0 +1,74 @@
+
+
+** latex build
+#+begin_src bash
+  cd latex
+  pdflatex main.tex
+#+end_src
+
+** First e-mail
+Dear all,
+
+I hearby propose to continue Mike's legacy of Swedish Mondays!
+
+If you are a complete beginer, or that you have some bases, or intermediate
+level or even speak fluently (we will need some), you are all very welcome to
+join. The goal is to speak Swedish, obviously, but also to learn at every
+levels.
+
+We will take some of the subjects that mike created, to begin with at least,
+subjects like: films, series, books, video games, your experience with sweden
+like your favorite places, swedes, how it is to live abroad (or not), and funny
+discutions about aliens and space, housepets, and we can later continue by
+finding new subjects to explore.
+
+I propose as the first meeting a presentation of yourself or the
+country/region/city you'r originally from. You will find a form attached to this
+email with the bases of how you could say all this in Swedish. If you're not
+comfortable enough yet so speak swedish, you can start small with a few
+sentences, and we will be happy to help you out translating the rest because
+this is the goal of course, to learn together.
+
+The more we are, the funnier it will get. We can begin with a few sessions
+before everyone goes to summer vacations, and then set a weekly session
+afterwards.
+
+The first lunch will be on the 8 or 15 of Jun, depending on the disponibility of
+everyone.
+
+Happy to see you soon for learning in a good a convivial setting!
+
+** First email 2
+Continuing Mike's Legacy: Swedish Mondays 🇸🇪
+
+Dear all,
+
+I'd like to propose continuing Mike's legacy of Swedish Mondays!
+
+Whether you're a complete beginner, have some basic knowledge, are at an
+intermediate level, or already speak Swedish fluently (we'll definitely need
+some fluent speakers!), you're all very welcome to join. The goal is, of course,
+to practice speaking Swedish, but also to learn together at every level.
+
+To get started, we can revisit some of the topics Mike introduced, such as
+films, TV series, books, video games, your experiences in Sweden, favorite
+places, cultural differences, what it's like to live abroad (or not), and fun
+discussions about topics like space, aliens, pets, and more. As we go along, we
+can add new subjects based on everyone's interests.
+
+For our first meeting, I suggest that everyone briefly presents themselves or
+talks about the country, region, or city they come from. I've attached a simple
+guide with some useful Swedish phrases that can help you prepare. If you don't
+yet feel comfortable speaking entirely in Swedish, that's perfectly fine. You
+can start with a few sentences, and we'll be happy to help translate and support
+you along the way. After all, the purpose is to learn together.
+
+The more people join, the more enjoyable the sessions will be. We could have a
+few meetings before the summer holidays and then establish a regular weekly
+session afterwards.
+
+I'm proposing the first lunch session on either 8 June or 15 June, depending on
+everyone's availability.
+
+I look forward to seeing you there and learning together in a friendly and
+welcoming atmosphere!
