@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026/Arch Linux) (preloaded format=pdflatex 2026.6.9)  13 SEP 2026 23:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026/Arch Linux) (preloaded format=pdflatex 2026.6.9)  14 SEP 2026 01:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -593,8 +593,6 @@ LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' will be
 (Font)              scaled to size 20.0pt on input line 7.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/b/n' will be
 (Font)              scaled to size 20.0pt on input line 7.
-LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/b/it' will be
-(Font)              scaled to size 20.0pt on input line 7.
 LaTeX Font Info:    Trying to load font information for TS1+EBGaramond-OsF on i
 nput line 10.
 (/usr/share/texmf-dist/tex/latex/ebgaramond/TS1EBGaramond-OsF.fd
@@ -623,64 +621,33 @@ Package microtype Info: Character `texttildelow ' is missing
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/it' will be
 (Font)              scaled to size 10.0pt on input line 10.
- (./footer.tex
-LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 3.
-LaTeX Font Info:    Font shape `TS1/EBGaramond-OsF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 7.
-Package microtype Info: Character `textthreeoldstyle ' is missing
-(microtype)             in font `TS1/EBGaramond-OsF/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `textfouroldstyle ' is missing
-(microtype)             in font `TS1/EBGaramond-OsF/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `textsevenoldstyle ' is missing
-(microtype)             in font `TS1/EBGaramond-OsF/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `textlbrackdbl ' is missing
-(microtype)             in font `TS1/EBGaramond-OsF/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `textrbrackdbl ' is missing
-(microtype)             in font `TS1/EBGaramond-OsF/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `texttildelow ' is missing
-(microtype)             in font `TS1/EBGaramond-OsF/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/it' will be
-(Font)              scaled to size 8.0pt on input line 7.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 10.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 10.
-) [1
+ (./footer.tex) [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf-dist/fonts
 /enc/dvips/ebgaramond/ebg_tcdnmr.enc}{/usr/share/texmf-dist/fonts/enc/dvips/ebg
-aramond/ebg_ljow5q.enc}{/usr/share/texmf-dist/fonts/enc/dvips/ebgaramond/ebg_yo
-d6vr.enc} <./SEFlag.png>] (./main.aux)
+aramond/ebg_yod6vr.enc}{/usr/share/texmf-dist/fonts/enc/dvips/ebgaramond/ebg_lj
+ow5q.enc} <./SEFlag.png>] (./main.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 18331 strings out of 469515
- 383173 string characters out of 5470808
- 838018 words of memory out of 5000000
- 46589 multiletter control sequences out of 15000+600000
- 715387 words of font info for 122 fonts, out of 8000000 for 9000
+ 18253 strings out of 469515
+ 381129 string characters out of 5470808
+ 834017 words of memory out of 5000000
+ 46562 multiletter control sequences out of 15000+600000
+ 689660 words of font info for 86 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  103i,8n,111p,1020b,604s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Bold.pfb></us
-r/share/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-BoldItalic.pfb></us
 r/share/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Italic.pfb></usr/sh
 are/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Regular.pfb></usr/share
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on main.pdf (1 page, 109430 bytes).
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on main.pdf (1 page, 83925 bytes).
 PDF statistics:
- 50 PDF objects out of 1000 (max. 8388607)
- 31 compressed objects within 1 object stream
+ 40 PDF objects out of 1000 (max. 8388607)
+ 25 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 49682 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 32274 words of extra memory for PDF output out of 35830 (max. 10000000)
 

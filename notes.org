@@ -1,5 +1,3 @@
-
-
 ** latex build
 #+begin_src bash
   cd latex
@@ -39,20 +37,20 @@ everyone.
 Happy to see you soon for learning in a good a convivial setting!
 
 ** First email 2
-Continuing Mike's Legacy: Swedish Mondays 🇸🇪
+Swedish Mondays - The Return, Continuing Mike's Legacy
 
 Dear all,
 
 I'd like to propose continuing Mike's legacy of Swedish Mondays!
 
-Whether you're a complete beginner, have some basic knowledge, are at an
+Whether you're a complete beginner, have some basic knowledge, have an
 intermediate level, or already speak Swedish fluently (we'll definitely need
-some fluent speakers!), you're all very welcome to join. The goal is, of course,
-to practice speaking Swedish, but also to learn together at every level.
+some fluent speakers!), you're all very welcome to join. The goal is to practice
+speaking Swedish, but also to learn together at every level.
 
-To get started, we can revisit some of the topics Mike introduced, such as
-films, TV series, books, video games, your experiences in Sweden, favorite
-places, cultural differences, what it's like to live abroad (or not), and fun
+To get started, we can use some of the topics Mike introduced, such as films, TV
+series, books, video games, your experiences in Sweden, favorite places,
+cultural differences, what it's like to live abroad (or not), and fun
 discussions about topics like space, aliens, pets, and more. As we go along, we
 can add new subjects based on everyone's interests.
 
@@ -72,3 +70,38 @@ everyone's availability.
 
 I look forward to seeing you there and learning together in a friendly and
 welcoming atmosphere!
+
+** versions
+*** 2024
+- 3 - Gott nytt år! Vad gjorde ni under julen?
+- 4 - Din upplevelse i Sverige!
+- 5 - Böcker och att läsa!
+- 6 - Datorspel!
+- 7 - Hur är svenskar?
+- 8 - Rymden och Utomjordingar!
+- 9 - Din bästa semester!
+- 11 - Växter och husdjur!
+- 12 - Kläder och stil!
+- 13 - Olika sätt att resa!
+- 16 - Att bo utomlands!
+- 17 - Att bo utomlands!
+- 18 - Teknik och människor!
+- 19 - Jobb och arbete!
+- 21 - Hobbies och fritid!
+- 23 - Språk och kommunikation!
+- 38 - Sommarminnen!
+- 39 - När hösten kommer
+- 40 - När hösten kommer
+- 42 - Matvanor
+- 44 - Matvanor
+- 45 - Resor och Platser att Besöka
+- 46 - Helgplaner
+- 47 - Att Hålla Kontakt
+- 48 - Filmer och Serier
+- 49 - Advent
+- 50 - Favoritplatser i Sverige
+
+*** 2025
+- 5 - Vad gjorde du under julen?
+- 6 - Resor och Semester
+- 7 - Mina Intressen
