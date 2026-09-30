@@ -1,8 +1,30 @@
+:PROPERTIES:
+:ID:       7e28746b-038a-41c0-ab57-9bd06e7af6cc
+:END:
+#+title: Swedish Mondays
+
 ** latex build
 #+begin_src bash
   cd latex
   pdflatex main.tex
 #+end_src
+
+** Second email
+Swedish Mondays - Second session
+
+Dear all,
+
+Thanks to everyone who participated in the first session!
+
+Tomorrow is our second Swedish Monday. This week’s topic was introduced by Mike
+in 2024: Din upplevelse i Sverige! (Your experience in Sweden!)
+
+I’m sending the cheat sheet for those who would like to prepare a few
+sentences. I’ll also print some copies for tomorrow.
+
+Hope to see you all again tomorrow!
+
+Félix
 
 ** First email
 Dear all,
@@ -43,35 +65,55 @@ https://svenskaspeak.speaklangs.com/swedish-pronunciation.html
 
 ** versions
 *** 2024
-- 3 - Gott nytt år! Vad gjorde ni under julen?
-- 4 - Din upplevelse i Sverige!
-- 5 - Böcker och att läsa!
-- 6 - Datorspel!
-- 7 - Hur är svenskar?
-- 8 - Rymden och Utomjordingar!
-- 9 - Din bästa semester!
-- 11 - Växter och husdjur!
-- 12 - Kläder och stil!
-- 13 - Olika sätt att resa!
-- 16 - Att bo utomlands!
-- 17 - Att bo utomlands!
-- 18 - Teknik och människor!
-- 19 - Jobb och arbete!
-- 21 - Hobbies och fritid!
-- 23 - Språk och kommunikation!
-- 38 - Sommarminnen!
-- 39 - När hösten kommer
-- 40 - När hösten kommer
-- 42 - Matvanor
-- 44 - Matvanor
-- 45 - Resor och Platser att Besöka
-- 46 - Helgplaner
-- 47 - Att Hålla Kontakt
-- 48 - Filmer och Serier
-- 49 - Advent
-- 50 - Favoritplatser i Sverige
+- [ ] 3 - Gott nytt år! Vad gjorde ni under julen?
+- [X] 4 - Din upplevelse i Sverige!
+- [ ] 5 - Böcker och att läsa!
+- [ ] 6 - Datorspel!
+- [ ] 7 - Hur är svenskar?
+- [ ] 8 - Rymden och Utomjordingar!
+- [ ] 9 - Din bästa semester!
+- [ ] 11 - Växter och husdjur!
+- [ ] 12 - Kläder och stil!
+- [ ] 13 - Olika sätt att resa!
+- [ ] 16 - Att bo utomlands!
+- [ ] 17 - Att bo utomlands!
+- [ ] 18 - Teknik och människor!
+- [ ] 19 - Jobb och arbete!
+- [ ] 21 - Hobbies och fritid!
+- [ ] 23 - Språk och kommunikation!
+- [ ] 38 - Sommarminnen!
+- [ ] 39 - När hösten kommer
+- [ ] 40 - När hösten kommer
+- [ ] 42 - Matvanor
+- [ ] 44 - Matvanor
+- [ ] 45 - Resor och Platser att Besöka
+- [ ] 46 - Helgplaner
+- [ ] 47 - Att Hålla Kontakt
+- [ ] 48 - Filmer och Serier
+- [ ] 49 - Advent
+- [ ] 50 - Favoritplatser i Sverige
 
 *** 2025
-- 5 - Vad gjorde du under julen?
-- 6 - Resor och Semester
-- 7 - Mina Intressen
+- [ ] 5 - Vad gjorde du under julen?
+- [ ] 6 - Resor och Semester
+- [ ] 7 - Mina Intressen
+
+*** My ideas
+- [ ] Music
+- [ ] Filmer och TV-serier
+- [ ] Spel (boardgames, PC, DnD)
+- [ ] Sport
+- [ ] Saker jag vill lära mig
+- [ ] Min drömhelg (Vad gör du när du behöver koppla av?) 46
+- [ ] fritid 21
+- [ ] Barndom (favoritfilmer, spel, rätt)
+- [ ] Traditioner från min familj
+- [ ] Saker jag vill lära mig
+- [ ] Dina intressen
+- [ ] Djur (hemma och natur)
+- [ ] Mat (vad brukar du äta, favorit rätt, vilket skulle ätta varje vecka)
+- [ ] Resa (favorit land/stad du vill gå eller har varit)
+- [ ] Konst (favorit medium music, måla, skulptur, etc what movment or genre)
+- [ ] Spell
+  - Gissa personen yes/no questions,
+- [ ] What's your favorite history period
