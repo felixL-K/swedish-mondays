@@ -9,6 +9,23 @@
   pdflatex main.tex
 #+end_src
 
+** Third email
+Swedish Mondays - Third session
+
+Dear all,
+
+Thanks to everyone who participated in the first sessions!
+
+Next Monday is our third Swedish Monday. This week’s topic was introduced by
+Mike in 2024: Hobbies och fritid! (Hobbies and Free Time!)
+
+I’m sending the cheat sheet for those who would like to prepare a few
+sentences. I’ll also print some copies.
+
+Hope to see you all again on Monday!
+
+Félix
+
 ** Second email
 Swedish Mondays - Second session
 
