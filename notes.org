@@ -3,13 +3,55 @@
 :END:
 #+title: Swedish Mondays
 
-** latex build
+* latex build
 #+begin_src bash
   cd latex
   pdflatex main.tex
 #+end_src
 
-** Third email
+In emacs, C-c C-c
+
+* Emails
+** Email 5
+Dear all,
+
+The next Swedish Monday will be a special session: Peter Möller has created a
+quiz about Swedish dialects!
+
+I’ve attached the template to this email in case you’d like to check the
+different Swedish regions beforehand.
+
+For all fluent Swedish speakers, I think this will be great fun to join. And for
+those who are not yet fluent in Swedish, it might be a bit challenging, but
+hopefully very fun and informative anyway.
+
+Hope to see many of you there!
+
+Félix
+
+** Email 4
+Swedish Mondays - Session 4
+
+Dear all,
+
+Thanks to everyone who participated in the previous sessions!
+
+Next Monday’s topic, introduced by Mike in 2024, is När hösten kommer (When
+Autumn Comes).
+
+I’m sending the cheat sheet for those who would like to prepare a few
+sentences. I’ll also print some copies.
+
+Hope to see you all again on Monday!
+
+Best,
+Félix
+
+P.S. For those who are interested, here’s a website for learning Swedish
+pronunciation: "Swedish Pronunciation Guide: Sounds, Pitch Accent & Tricky
+Vowels", https://svenskaspeak.speaklangs.com/swedish-pronunciation.html
+
+** Email 3
 Swedish Mondays - Third session
 
 Dear all,
@@ -26,7 +68,7 @@ Hope to see you all again on Monday!
 
 Félix
 
-** Second email
+** Email 2
 Swedish Mondays - Second session
 
 Dear all,
@@ -43,7 +85,7 @@ Hope to see you all again tomorrow!
 
 Félix
 
-** First email
+** Email 1
 Dear all,
 
 I'd like to propose continuing Mike's legacy of Swedish Mondays!
@@ -76,7 +118,7 @@ welcoming atmosphere!
 
 -- Félix
 
-** Later meetings
+* Later meetings
 Swedish Pronunciation Guide:
 https://svenskaspeak.speaklangs.com/swedish-pronunciation.html
 
